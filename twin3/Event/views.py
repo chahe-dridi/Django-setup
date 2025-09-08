@@ -2,7 +2,7 @@ from django.shortcuts import render
 from django.http import HttpResponse
 
 def hello(request):
-    return HttpResponse("Hello, world. You're at the event index.")
+    return HttpResponse("Hello, 5twin3.")
 
 def bonjour(request):
     classe="5twin3"
